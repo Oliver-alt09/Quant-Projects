@@ -1,0 +1,22 @@
+Systemic risk averted in 1 months
+Circuit Breaker triggered in 49 months
+
+Systematic Macro Fund Performance
+Annualized Return (CAGR): 9.13%
+Annualized Sharpe Ratio:  0.81
+Maximum Drawdown:         -21.35%
+
+Benchmark (S&P 500) Performance
+Annualized Return (CAGR): 10.38%
+Annualized Sharpe Ratio:  0.72
+Maximum Drawdown:         -50.78%
+Current Target Allocation:
+Ticker
+BIL    0.437253
+GLD    0.562747
+99% Value at Risk (VaR):          -15.58%
+99% Expected Shortfall (CVaR):    -18.69%
+Catastrophic Failure Threshold defined as: -50%
+Paths ending in Ruin: 13 out of 10,000
+Probability of Ruin:  0.13%
+The architecture is highly robust to sequence risk
