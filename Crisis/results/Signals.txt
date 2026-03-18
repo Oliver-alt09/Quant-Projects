@@ -1,0 +1,18 @@
+Recent Tail-Risk Signals:
+            IV_VIX        VRP  VVIX_Z_Score  Crisis_Alpha
+Date                                                     
+2025-11-20   26.42  12.286224      2.444105          True
+2026-01-14   16.75   8.118036      2.259169          True
+2026-01-20   20.09   9.709556      2.820662          True
+2026-02-05   21.77  10.408763      2.121639          True
+2026-03-06   29.49  16.183035      3.375850          True
+
+
+Current Underlying Price (S): $500.00
+Target Strike Price (K):      $400.00
+Theoretical Put Price:        $0.14
+Option Delta (Δ):            -0.0081
+Portfolio Value:            $500,000.00
+Contracts to Purchase:      311
+Total Premium Cost:         $4,279.74
+Insurance Cost Drag:        0.86%
