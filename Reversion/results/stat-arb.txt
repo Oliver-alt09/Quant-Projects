@@ -1,0 +1,9 @@
+OU λ: -0.00346
+OU μ: 1.6149
+Half-Life: 200.4 days
+Signals Generated: 67 Long, 33 Short
+Trades Executed: 12
+Friction Model: 10 bps
+Net Return: 33.67%
+Sharpe: 0.77
+Max Drawdown: -6.26%
